@@ -1,0 +1,109 @@
+/*
+Theme Name: WP Theme Resume
+Version: 1.0
+Author: WP Theme Resume
+Author URI: https://wpthemeresume.com
+Description: WP Theme Resume is a free WordPress theme for resume, CV, vCard,
+personal portfolio, and online identity websites. It is a clean, modern, and
+fully responsive theme that allows you to create a professional online presence.
+
+*/
+
+body {
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+
+main {
+    width: 929px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 31px;
+}
+
+.author {
+    display: flex;   
+    align-items: center;
+    gap: 55px;
+    margin-bottom: 30px;
+}
+
+.author img {
+    width: 299px;
+    height: auto;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 48px;
+    line-height: 100%;
+    font-family: Open Sans;
+    font-weight: 700;
+    font-style: Bold;
+    letter-spacing: 0px;
+}
+
+.author p {
+    font-size: 15px;
+    margin: 0;
+    line-height: 160%;
+}
+
+.contacts {
+    border-radius: 5px;
+    background: #846DED;
+    padding: 40px;
+    color: white;
+    margin-bottom: 50px;
+}    
+
+.contacts h2{
+   color: white;
+}
+
+.contacts p {
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 5px; 
+    line-height: 160%;
+}
+
+ol {
+    font-size: 20px;
+    line-height: 160%;
+    margin: 0;
+}
+
+ol li {
+    margin-top: 15px;
+}
+
+li a {
+    color: #3A5DFF;
+    
+}
+
+.projects {
+    margin-bottom: 50px;
+}   
+
+ul {
+    font-size: 16px;
+    line-height: 160%;
+    margin: 0;
+}
+
+ul li {
+    margin-top: 10px;
+}
+
+.soft-skills {
+    margin-bottom: 50px;
+}
+
