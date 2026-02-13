@@ -1,6 +1,6 @@
 # WP Theme Resume
 
-A minimalist, high-performance WordPress resume theme built for developers and creatives. This theme uses a clean layout with a focus on typography and ease of use.
+A minimalist WordPress resume theme. This theme uses a clean layout with a focus on typography and ease of use.
 
 ## 🚀 Features
 - **Dynamic Content:** Fully integrated with Advanced Custom Fields (ACF).
@@ -19,4 +19,4 @@ A minimalist, high-performance WordPress resume theme built for developers and c
 1. **Clone the repository** into your WordPress themes folder:
    ```bash
    cd wp-content/themes/
-   git clone [https://github.com/your-username/wp-theme-resume.git](https://github.com/your-username/wp-theme-resume.git)
+   git clone [https://github.com/NataliShpak/WordPress-Theme-Resume.git](https://github.com/NataliShpak/WordPress-Theme-Resume.git)
